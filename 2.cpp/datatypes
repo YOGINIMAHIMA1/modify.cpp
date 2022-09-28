@@ -1,0 +1,17 @@
+there are two types of data types:-
+fundamental data types :-char,float, int,float,double and void that represent character,integer,floating-point,double-floating-point and valueless data respectively.
+2>Derived data types in C++ - array, function,pointers,refrences,constants,classes,unions and enumerations.
+
+
+Fundamental Data types - five fundamental data types below:
+1> int Data Type (for integers)-whole numbers as 2, 33,-22,-210,0 etc. They have no fractional parts.they are represented in C++ by int data type. AN identifier declared 
+as int variable can hold integer value.
+ 
+ 2>char data types- it can store any number of the C++ implementation's basic character set. If a character from this set is stores in a character variable, its value is 
+ equivalent to the integer code of that character.
+ 
+ 3>float data type- a number having fractinal part for ex= 12.0,1.4323289564
+ 
+ 
+ 4>double data type=it typically require 8 bytes.
+ 
